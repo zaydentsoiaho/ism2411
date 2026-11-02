@@ -36,7 +36,7 @@ d813367 add module 7 functions: calculate_tax, apply_discount, final_price
 My commit messages show that I build my work and projects step by step and write clear and simple labels for each change. This would tell an employer that I keep my work orangized and can make it easy for others to follow along 
 
 
-### Editing with Git
+### 2. Editing with Git
 
 With Git now I can save my Python scripts like how I am currently working on fuctions.py. I can use a commit to create a secure checkpoint. Then I can safely make smaller changes or add new things to the file and if it affects my code, Git allows me to go back to an ealirer working version without losing anything.
 
