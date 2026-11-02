@@ -8,7 +8,7 @@
 #store portal long data set each time. 
 
 
-#Exercise 1: Build the lis 
+#Exercise 1: Build the list 
 
 inventory = ["pen", "notebook", "stapler", "tape", "marker"]
 print(inventory)
@@ -25,7 +25,7 @@ print(inventory[:3])
 print(inventory[-2:])
 print(inventory[::2])
 
-#Exercise 4: Modify the inventory 
+#Exercise 4: Modify Inventory 
 inventory.append("envelope")
 print(inventory)
 
@@ -46,7 +46,7 @@ except TypeError:
 
 print (coords)
 
-#Exercise 6: Sales calcualtions 
+#Exercise 6: Average of a list of sales
 
 sales = [100, 250, 75, 480, 200]
 total = sum(sales)
@@ -59,7 +59,7 @@ print("Average:", average)
 print("Best:", max(sales))
 print("Worst:", min(sales))
 
-#Exercise 7: Build a discounted list 
+#Exercise 7: Accumulator pattern
 prices = [9.99, 14.99, 4.99, 24.99, 1.99]
 discounted = []
 
